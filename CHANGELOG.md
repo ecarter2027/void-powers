@@ -1,5 +1,8 @@
 # Void Powers changelog (since 1.7.2)
 
+## 1.56.9
+- Herobrine's Void Reapers attack much faster: attack speed up by 2 (from 1.4 to 3.4 swings a second). With Epic Fight, their Darknight Pursuiters combos play faster to match.
+
 ## 1.56.8
 - Explosion impact frames scatter anime sparkles instead of jagged starbursts: four thin arms tapering to a point (the horizontal pair longer), white with a black outline, and one with a long thin streak through it.
 
