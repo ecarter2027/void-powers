@@ -11,7 +11,7 @@ Its Epic Fight add-on, **Void Powers: Epic Fight**, gives every character's weap
 Every version of the mod and of the Epic Fight add-on is on the [Releases](../../releases) page.
 
 - `VoidPowers-<version>.jar`: the mod (Forge 1.20.1).
-- `VoidPowersEpicFight-<version>.jar`: the Epic Fight add-on. It needs Epic Fight, Weapons of Miracles, Epic Fight Extra, Epic Fight: Dawn Day and (from 4.3.0) EpicFight-Awaken.
+- `VoidPowersEpicFight-<version>.jar`: the Epic Fight add-on. It needs Epic Fight, Weapons of Miracles, Epic Fight Extra and Epic Fight: Dawn Day; from 4.3.0 also EpicFight-Awaken (which needs Combat Evolution 2.3.0 or later).
 
 What changed in each version: [CHANGELOG.md](CHANGELOG.md) and [CHANGELOG-EpicFight-addon.md](CHANGELOG-EpicFight-addon.md).
 
