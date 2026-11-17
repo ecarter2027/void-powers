@@ -1,5 +1,8 @@
 # Void Powers changelog (since 1.7.2)
 
+## 1.56.10
+- Entity 303's Weeping Greatsword attacks faster: attack speed up from 1.0 to 2.4 swings a second (still a little slower than Herobrine's reapers, for its weight). With Epic Fight, its greatsword moveset plays faster to match.
+
 ## 1.56.9
 - Herobrine's Void Reapers attack much faster: attack speed up by 2 (from 1.4 to 3.4 swings a second). With Epic Fight, their Darknight Pursuiters combos play faster to match.
 
