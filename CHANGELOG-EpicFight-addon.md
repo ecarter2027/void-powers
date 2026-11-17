@@ -1,5 +1,8 @@
 # Void Powers: Epic Fight changelog
 
+## 4.3.1
+- Fix: Herobrine's Void Reaper trails didn't follow the blades. He holds one in each hand, the left one mirrored, but Epic Fight gives an item one trail for both hands, so whichever way it was set, one hand was wrong. In battle mode each reaper is now turned to point straight out of the fist (its own turn for each hand), so one trail runs along both blades.
+
 ## 4.3.0
 - Herobrine's Void Reapers play EpicFight-Awaken's Darknight Pursuiters moveset: its own combos, dash and air attacks, guard, dual-wield style and skills.
 - Requires EpicFight-Awaken 1.2.8 or later.
