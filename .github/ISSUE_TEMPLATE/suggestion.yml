@@ -1,0 +1,30 @@
+name: Suggestion
+description: Suggest a character, power, weapon, animation or change
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of suggestion?
+      options:
+        - New character
+        - New power or ability
+        - New weapon or moveset
+        - Animation or effect
+        - Change to something that exists
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should it be, and how should it work or look?
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: References (optional)
+      description: Links to the show, a video, or pictures that show what you mean.

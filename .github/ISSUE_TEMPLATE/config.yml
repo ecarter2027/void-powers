@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ideas board
+    url: https://github.com/ecarter2027/void-powers/discussions/categories/ideas
+    about: Talk over an idea with everyone before (or instead of) opening a suggestion.

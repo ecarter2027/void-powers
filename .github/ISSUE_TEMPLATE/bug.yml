@@ -1,0 +1,22 @@
+name: Bug report
+description: Something broken or crashing
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Void Powers version (and Epic Fight add-on version, if you use it)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Crash report or log (optional)
+      render: shell
